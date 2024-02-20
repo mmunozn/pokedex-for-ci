@@ -15,3 +15,6 @@ Start by running `npm install` inside the project folder
 `npm run eslint` to run eslint
 `npm run build` to make a production build
 `npm run start-prod` to run your production build
+
+
+[![Deployment Pipeline](https://github.com/mmunozn/pokedex-for-ci/actions/workflows/pipeline2.yml/badge.svg)](https://github.com/mmunozn/pokedex-for-ci/actions/workflows/pipeline2.yml)
